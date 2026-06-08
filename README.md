@@ -35,14 +35,5 @@ O projeto foi construído utilizando tecnologias web puras e bibliotecas moderna
 ## 🎨 Recursos de Interface
 - **Sidebar de Contexto:** Painel lateral informativo no simulador que preenche o espaço visual e entrega dicas rápidas sobre rotação de culturas enquanto o usuário joga.
 - **Cards Informativos Sólidos:** Caixas coloridas e adaptativas (verdes para sucesso, vermelhas para competição severa/alerta) que mudam de acordo com o resultado da simulação.
-- **Direcionamento Dinâmico:** Botões de contexto (como *"Ver Detalhes na Biblioteca"*) inseridos diretamente nos resultados para guiar a experiência de aprendizado do usuário.
 
 ---
-
-## 📁 Estrutura de Arquivos
-A arquitetura do repositório foi simplificada para garantir máxima velocidade de carregamento e facilidade na hospedagem (ex: GitHub Pages, Vercel ou Netlify):
-
-```bash
-agro-elo/
-├── index.html     # Arquivo principal que unifica a lógica, estilos e as 7 abas do portal
-└── README.md      # Documentação e apresentação oficial do projeto (este arquivo)
